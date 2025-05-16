@@ -1,0 +1,7 @@
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
+<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | <transcript_of_wav_file>
