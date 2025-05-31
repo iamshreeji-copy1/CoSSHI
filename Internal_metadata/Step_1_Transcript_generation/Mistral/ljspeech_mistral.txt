@@ -1158,3 +1158,843 @@ Mistral_1157|I think I will wear my नया कपड़ा to the party tonig
 Mistral_1158|She mentioned, 'मैंने एक नया गाना सुना है,' and it's really catchy.
 Mistral_1159|We should probably call a टैक्सी because it's getting late.
 Mistral_1160|He said, 'मैंने अपने दोस्तों को पार्टी के लिए आमंत्रित किया है,' so it should be fun.
+Mistral_1161|Kal raat I was watching a movie और suddenly मुझे बहुत भूक लगी, so I ordered some pizza.
+Mistral_1162|My boss ने आज कहा कि I need to finish the project by next week, otherwise मैं trouble में पड़ जाऊंगा.
+Mistral_1163|When I went to the market, मैंने देखा कि sabzi वाले के पास बहुत fresh vegetables थे, so I bought some.
+Mistral_1164|I was talking to my friend on the phone और suddenly call disconnect हो गई, so I had to call him back.
+Mistral_1165|Yesterday, मैं बहुत tired था because I had been working all day, so I decided to take a nap.
+Mistral_1166|My mother ने मुझे बताया कि I should eat healthy food if I want to stay fit and active.
+Mistral_1167|When I was in school, मेरे teachers always said कि I should study hard if I want to succeed in life.
+Mistral_1168|I was planning to go for a walk but suddenly बारिश शुरू हो गई, so I had to stay at home.
+Mistral_1169|My friend ने मुझे बताया कि he is going to Delhi next week और asked if I wanted to join him.
+Mistral_1170|I was trying to cook a new dish but मैं नहीं जानता था कि how to use some of the ingredients, so I looked up a recipe online.
+Mistral_1171|आज सुबह I woke up late और realized कि मैं अपने office के लिए late हो रहा था, so I skipped breakfast.
+Mistral_1172|My sister ने मुझे बताया कि she is planning a surprise party for mom's birthday और asked if I could help her.
+Mistral_1173|While I was driving to work, मैंने देखा कि petrol almost खत्म हो रहा था, so I stopped at the nearest petrol pump.
+Mistral_1174|I was reading a book और suddenly मुझे एक interesting idea आया, so I decided to write it down.
+Mistral_1175|Last night, मैं बहुत excited था because I had planned a trip to Goa with my friends.
+Mistral_1176|My colleague ने मुझे बताया कि there is a meeting scheduled for tomorrow और asked if I could prepare the presentation.
+Mistral_1177|When I was at the gym, मैंने देखा कि एक नया machine installed था, so I decided to try it out.
+Mistral_1178|I was listening to music और suddenly मुझे एक old song याद आया, so I decided to play it.
+Mistral_1179|My neighbor ने मुझे बताया कि he is selling his old car और asked if I was interested in buying it.
+Mistral_1180|I was trying to fix my computer but मैं नहीं समझ पा रहा था कि what was wrong with it, so I called a technician.
+Mistral_1181|आज मैं बहुत happy था because I received a promotion at work और decided to celebrate with my family.
+Mistral_1182|My best friend ने मुझे बताया कि she is getting married next month और asked if I could be her maid of honor.
+Mistral_1183|While I was cooking dinner, मैंने देखा कि gas cylinder almost खत्म हो रहा था, so I ordered a new one.
+Mistral_1184|I was watching a cricket match और suddenly power cut हो गया, so I had to wait for the electricity to come back.
+Mistral_1185|Last weekend, मैं बहुत bored था because I had nothing to do, so I decided to visit my grandparents.
+Mistral_1186|My doctor ने मुझे बताया कि I should exercise regularly if I want to improve my health और avoid future problems.
+Mistral_1187|When I was in college, मेरे professors always said कि I should focus on my studies if I want to get a good job.
+Mistral_1188|I was planning to go shopping but suddenly मुझे याद आया कि I had an important meeting, so I had to cancel my plans.
+Mistral_1189|My cousin ने मुझे बताया कि he is starting a new business और asked if I could invest some money in it.
+Mistral_1190|I was trying to learn a new language but मैं नहीं समझ पा रहा था कि how to pronounce some of the words, so I hired a tutor.
+Mistral_1191|आज मैं बहुत stressed था because I had a lot of work to do और decided to take a break and relax.
+Mistral_1192|My roommate ने मुझे बताया कि she is moving out next month और asked if I could help her find a new place to live.
+Mistral_1193|While I was cleaning my room, मैंने देखा कि एक old photo album मिला, so I decided to look through it.
+Mistral_1194|I was listening to a podcast और suddenly मुझे एक interesting topic पर बात करने का मन किया, so I decided to research it.
+Mistral_1195|Last summer, मैं बहुत excited था because I had planned a trip to Europe with my family और decided to visit all the famous landmarks.
+Mistral_1196|My manager ने मुझे बताया कि there is a new project coming up और asked if I could lead the team.
+Mistral_1197|When I was at the park, मैंने देखा कि एक नया playground बनाया गया था, so I decided to take my nephew there.
+Mistral_1198|I was trying to fix my bike but मैं नहीं समझ पा रहा था कि what was wrong with it, so I took it to a repair shop.
+Mistral_1199|My aunt ने मुझे बताया कि she is coming to visit us next week और asked if I could pick her up from the airport.
+Mistral_1200|I was watching a movie और suddenly मुझे एक old memory याद आया, so I decided to call an old friend.
+Mistral_1201|आज मैं बहुत tired था because I had been traveling all day और decided to take a hot shower and relax.
+Mistral_1202|My brother ने मुझे बताया कि he is getting a new job और asked if I could help him prepare for the interview.
+Mistral_1203|While I was cooking breakfast, मैंने देखा कि bread almost खत्म हो रहा था, so I decided to buy some more.
+Mistral_1204|I was listening to the radio और suddenly मुझे एक old song सुनाई दिया, so I decided to sing along.
+Mistral_1205|Last winter, मैं बहुत sick था because I had caught a cold और decided to stay at home and rest.
+Mistral_1206|My teacher ने मुझे बताया कि I should practice more if I want to improve my skills और become better at what I do.
+Mistral_1207|When I was at the beach, मैंने देखा कि एक beautiful sunset हो रहा था, so I decided to take some photos.
+Mistral_1208|I was planning to go for a run but suddenly मुझे याद आया कि I had a doctor's appointment, so I had to reschedule my plans.
+Mistral_1209|My uncle ने मुझे बताया कि he is retiring next year और asked if I could help him plan a retirement party.
+Mistral_1210|I was trying to solve a puzzle but मैं नहीं समझ पा रहा था कि how to put the pieces together, so I decided to take a break and come back to it later.
+Mistral_1211|My doctor ने मुझे बताया कि I should drink more water if I want to stay hydrated.
+Mistral_1212|While I was exercising, मुझे suddenly याद आया कि I had a meeting in an hour.
+Mistral_1213|My friend called me और asked if I could help her with her project.
+Mistral_1214|I was watching a movie और suddenly मुझे एक interesting scene मिला, so I decided to watch it again.
+Mistral_1215|During the conference, my colleague suggested कि we should try a new strategy to improve sales.
+Mistral_1216|I was cooking lunch और realized कि I was missing some spices, so I went to the store.
+Mistral_1217|Yesterday, मैं बहुत busy था because I had to attend multiple meetings and complete a report.
+Mistral_1218|My sister told me कि she is planning a trip to Jaipur और asked if I wanted to join her.
+Mistral_1219|I was listening to a podcast और suddenly मुझे एक interesting topic पर बात करने का मन किया, so I decided to research it.
+Mistral_1220|While I was driving, मैंने देखा कि the road was very congested, so I decided to take a different route.
+Mistral_1221|My mother asked me कि I had finished my chores, and I said yes.
+Mistral_1222|I was reading a magazine और suddenly मुझे एक new article मिला, so I decided to read it.
+Mistral_1223|My boss told me कि I need to complete the presentation by Monday, otherwise मैं trouble में पड़ जाऊंगा.
+Mistral_1224|While I was shopping, मैंने देखा कि एक beautiful saree थी, so I decided to try it on.
+Mistral_1225|I was talking to my friend on the phone और suddenly call disconnect हो गई, so I had to call her back.
+Mistral_1226|Yesterday, मैं बहुत tired था because I had been working all day, so I decided to take a nap.
+Mistral_1227|My mother ने मुझे बताया कि I should eat more fruits if I want to stay healthy and active.
+Mistral_1228|When I was in college, मेरे professors always said कि I should participate in sports if I want to stay fit.
+Mistral_1229|I was planning to go for a jog but suddenly बारिश शुरू हो गई, so I had to stay at home.
+Mistral_1230|My friend ने मुझे बताया कि he is going to Bangalore next week और asked if I wanted to join him.
+Mistral_1231|While I was working, मुझे suddenly याद आया कि I had a deadline approaching.
+Mistral_1232|My friend texted me और asked if I could help her with her assignment.
+Mistral_1233|I was watching a series और suddenly मुझे एक cliffhanger मिला, so I decided to watch the next episode.
+Mistral_1234|During the workshop, my colleague suggested कि we should try a new technique to improve efficiency.
+Mistral_1235|I was baking a cake और realized कि I was missing some flour, so I went to the store.
+Mistral_1236|Yesterday, मैं बहुत occupied था because I had to attend multiple calls and finish a task.
+Mistral_1237|My brother told me कि he is planning a trip to Kerala और asked if I wanted to join him.
+Mistral_1238|I was listening to an audiobook और suddenly मुझे एक interesting chapter मिला, so I decided to listen to it again.
+Mistral_1239|While I was commuting, मैंने देखा कि the metro was very crowded, so I decided to take a cab.
+Mistral_1240|My father asked me कि I had finished my errands, and I said yes.
+Mistral_1241|I was reading a novel और suddenly मुझे एक new character मिला, so I decided to read more about them.
+Mistral_1242|My manager told me कि I need to complete the analysis by Tuesday, otherwise मैं trouble में पड़ जाऊंगा.
+Mistral_1243|While I was browsing, मैंने देखा कि एक beautiful painting थी, so I decided to buy it.
+Mistral_1244|I was talking to my cousin on the phone और suddenly call disconnect हो गई, so I had to call her back.
+Mistral_1245|Yesterday, मैं बहुत exhausted था because I had been working all day, so I decided to take a rest.
+Mistral_1246|My father ने मुझे बताया कि I should eat more vegetables if I want to stay healthy and active.
+Mistral_1247|When I was in university, मेरे professors always said कि I should participate in debates if I want to improve my speaking skills.
+Mistral_1248|I was planning to go for a run but suddenly thunderstorm शुरू हो गई, so I had to stay indoors.
+Mistral_1249|My friend ने मुझे बताया कि he is going to Hyderabad next month और asked if I wanted to join him.
+Mistral_1250|I was trying to make a new recipe but मैं नहीं जानता था कि how to use some of the spices, so I looked up a cooking video online.
+Mistral_1251|By the way, जब मैं gym जा रहा था, I realized I forgot my headphones at home.
+Mistral_1252|Yesterday evening I met Rohan और उसने बताया कि वो अगले महीने Europe जा रहा है.
+Mistral_1253|Actually, this movie was quite interesting लेकिन थोड़ा सा लंबा था मेरे हिसाब से.
+Mistral_1254|I was just thinking कि अगर हम थोड़ा early निकलते, तो traffic avoid कर सकते थे.
+Mistral_1255|Honestly, मुझे लगता है कि यह plan थोड़ा risky है but let’s give it a try.
+Mistral_1256|On a random note, आपने देखा वो नया gadget जो market में launch हुआ है?
+Mistral_1257|Sometimes जब मैं alone होता हूँ, I prefer listening to soft instrumental music.
+Mistral_1258|During the meeting, सबने अपने ideas share किए but none of them felt practical.
+Mistral_1259|You know, अगर हम थोड़ी और मेहनत करें, we can finish this project before time.
+Mistral_1260|Surprisingly, he completed the entire assignment खुद से और बिना किसी help के.
+Mistral_1261|When we went to Manali, weather इतना अच्छा था that we didn’t want to return.
+Mistral_1262|This weekend I’m planning to clean the house और शायद कुछ decoration भी करूं.
+Mistral_1263|Frankly, मुझे नहीं लगता कि वो इस job के लिए suitable है, but let’s see.
+Mistral_1264|I always wondered क्यों कुछ लोग mornings में super energetic होते हैं.
+Mistral_1265|Last time जब हम मिले थे, you promised कि तुम अपने behavior change करोगे.
+Mistral_1266|Actually, the lecture today was informative but थोड़ा सा boring भी था.
+Mistral_1267|You won't believe उसने entire task अकेले handle किया and still managed to smile.
+Mistral_1268|We had dinner at that new place जो recently open हुआ है near the station.
+Mistral_1269|While watching the movie, मुझे लगा कि climax थोड़ा better हो सकता था.
+Mistral_1270|Every day, मैं सोचता हूँ कि I should start working out but I never do.
+Mistral_1271|Luckily, मेरा bag recover हो गया जो train में छूट गया था.
+Mistral_1272|Honestly, I never thought कि इतने साल बाद भी वो मुझे याद करेगा.
+Mistral_1273|When I opened the email, मुझे समझ नहीं आया कि इतने सारे errors कैसे आए.
+Mistral_1274|I bought a new laptop और उसका performance सच में next level है.
+Mistral_1275|Believe it or not, उसने 10 km run complete कर लिया without stopping once.
+Mistral_1276|That place is beautiful लेकिन थोड़ा महंगा भी है for regular visits.
+Mistral_1277|Surprisingly, उसने मुझे wish किया even after our last argument.
+Mistral_1278|I was trying to explain कि क्यों ये idea work नहीं करेगा but वो नहीं माना.
+Mistral_1279|On Sunday, I’m planning to cook कुछ special for the family dinner.
+Mistral_1280|You know, वो moment जब सब चुप हो जाएं और बस music बजे.
+Mistral_1281|I visited that art exhibition जहां नए artists ने अपने काम display किए थे.
+Mistral_1282|By the time we reached, concert already शुरू हो चुका था unfortunately.
+Mistral_1283|Frankly speaking, मुझे अब तक कोई solution नहीं मिला to this problem.
+Mistral_1284|We thought it would be easy लेकिन actual में बहुत tough निकला.
+Mistral_1285|I always wanted to learn guitar पर time की कमी की वजह से रह गया.
+Mistral_1286|The teacher told us कि कल surprise test होगा so be prepared.
+Mistral_1287|While cleaning the drawer, मुझे पुराने letters मिले from school days.
+Mistral_1288|Believe me, वो feeling unmatched होती है when you finish a long task.
+Mistral_1289|Just imagine अगर हर दिन Sunday हो, then life would be boring too.
+Mistral_1290|He called me urgently और कहा कि कुछ urgent help चाहिए.
+Mistral_1291|We planned a road trip लेकिन अचानक बारिश आ गई and we had to cancel.
+Mistral_1292|I never thought कि इतना simple सा task इतना time ले लेगा.
+Mistral_1293|The best part about weekends है कि you can finally rest properly.
+Mistral_1294|Honestly, मैं थोड़ा nervous हूँ about tomorrow’s presentation.
+Mistral_1295|She was singing so well कि पूरा crowd silent होकर सुन रहा था.
+Mistral_1296|I was about to sleep जब मुझे याद आया कि report भेजना है.
+Mistral_1297|Actually, वो offer बहुत अच्छा है but location थोड़ा far है.
+Mistral_1298|I tried that new cafe और उसका ambience काफी अच्छा लगा मुझे.
+Mistral_1299|Yesterday, जब मैं office पहुंचा, everything was already set up.
+Mistral_1300|They were discussing something serious और मैंने बीच में interrupt कर दिया.
+Mistral_1301|You won’t believe, वो अपने ideas इतनी confidently present करता है.
+Mistral_1302|The way she explained topic, मुझे तुरंत समझ में आ गया.
+Mistral_1303|I’m thinking of joining yoga classes क्योंकि back pain बढ़ता जा रहा है.
+Mistral_1304|Honestly, मैं अपनी productivity बढ़ाने के लिए daily planning करने लगा हूँ.
+Mistral_1305|Did you see that viral video जिसमें बच्चा इतनी प्यारी बातें कर रहा है?
+Mistral_1306|On Friday, मुझे थोड़ी जल्दी छुट्टी मिल गई so I went shopping.
+Mistral_1307|I remember that teacher जो हमें always motivate करती थी.
+Mistral_1308|While going home, मुझे एक पुराना दोस्त मिल गया from college.
+Mistral_1309|He was telling me कि कैसे उसने अपने startup शुरू किया.
+Mistral_1310|Actually, I was confused between two options और दोनों ही अच्छे थे.
+Mistral_1311|That was the moment जब मैंने decide किया to never give up.
+Mistral_1312|Surprisingly, मैंने जितना सोचा था उससे ज्यादा easy लगा ये task.
+Mistral_1313|We were waiting at the station जब announcement हुआ कि train late है.
+Mistral_1314|Honestly, मुझे अब भी वो incident याद है जो childhood में हुआ था.
+Mistral_1315|Sometimes, silence भी बहुत कुछ कह जाती है जो words नहीं कह पाते.
+Mistral_1316|I always wanted to visit Kashmir क्योंकि उसकी beauty legendary है.
+Mistral_1317|After the session, मुझे लगा कि मेरा confidence थोड़ा improve हुआ है.
+Mistral_1318|She texted me suddenly और बोली कि वो मुझे miss कर रही थी.
+Mistral_1319|Just imagine कि तुम्हें एक दिन में दुनिया घुमने को मिल जाए.
+Mistral_1320|We were all dancing जब अचानक light चली गई and music stopped.
+Mistral_1321|I was reading a novel जिसमें story इतनी gripping थी कि I couldn’t stop.
+Mistral_1322|Actually, I forgot कि आज important meeting थी 11 बजे.
+Mistral_1323|The moment I entered room, सबने मुझे देखकर cheer किया.
+Mistral_1324|I made pasta yesterday और सबको इतना पसंद आया कि they asked for recipe.
+Mistral_1325|We met after a long time और बातें खत्म ही नहीं हो रही थीं.
+Mistral_1326|I tried to sleep early पर नींद ही नहीं आ रही थी for some reason.
+Mistral_1327|Everyone was praising him क्योंकि उसने अकेले पूरा काम कर लिया था.
+Mistral_1328|Honestly, मुझे लगता है कि हमें थोड़ा और मेहनत करनी चाहिए थी.
+Mistral_1329|He was wearing such weird outfit कि सब लोग उसे देख रहे थे.
+Mistral_1330|I planned the surprise carefully और फिर भी वो guess कर गया.
+Mistral_1331|During the trip, हम सबने इतने photos लिए that my phone got full.
+Mistral_1332|You won’t believe, मैंने accidental एक पुरानी diary discover की.
+Mistral_1333|I was cooking lunch जब suddenly gas खत्म हो गया.
+Mistral_1334|That teacher used to tell stories in such a way कि boredom ही नहीं होती थी.
+Mistral_1335|I always thought कि मैं अकेले travel नहीं कर सकता but I did it.
+Mistral_1336|She sent me a message जिसमें सिर्फ एक emoji था but it meant a lot.
+Mistral_1337|The day was so hectic कि मुझे रात को dinner करने की भी energy नहीं थी.
+Mistral_1338|Actually, मेरा plan था कि आज थोड़ा relax करूं but काम आ गया.
+Mistral_1339|We reached on time लेकिन movie already शुरू हो गई थी sadly.
+Mistral_1340|Honestly, मुझे अभी भी doubts हैं about this decision.
+Mistral_1341|I kept calling him लेकिन उसका phone continuously busy जा रहा था.
+Mistral_1342|During the lunch break, हम सबने मिलकर एक छोटी सी party रखी.
+Mistral_1343|That moment when हम सबने साथ में sunset देखा – it was magical.
+Mistral_1344|I joined the webinar और उसमें काफी useful information मिली.
+Mistral_1345|When I asked him, उसने clearly कहा कि वो interested नहीं है.
+Mistral_1346|I thought वो मजाक कर रहा है but he was serious actually.
+Mistral_1347|The book I was reading last week अब मेरी favorite बन चुकी है.
+Mistral_1348|Actually, मुझे लगता है कि थोड़ी देर rest लेना चाहिए.
+Mistral_1349|While returning home, मुझे एक stray puppy दिखा जिसे मैंने खाना दिया.
+Mistral_1350|The show was amazing लेकिन थोड़ा lengthy था मेरे taste के लिए.
+Mistral_1351|Frankly, मुझे नहीं लगता कि वो honest था about what happened.
+Mistral_1352|The way उसने अपनी feelings express की, it was really touching.
+Mistral_1353|I opened the app और देखा कि सारे slots already booked हैं.
+Mistral_1354|Believe it or not, मैंने पहली बार meditation try किया आज सुबह.
+Mistral_1355|You know, जब बारिश होती है, I love sitting with a hot coffee.
+Mistral_1356|Actually, इस बार festival बहुत simple तरीके से celebrate किया हमने.
+Mistral_1357|I was wondering कि अगर हम थोड़ा early निकलते तो rush avoid कर सकते थे.
+Mistral_1358|That meeting was so long कि मेरा सिर दर्द करने लगा end तक.
+Mistral_1359|I planned to binge watch लेकिन बीच में power cut हो गया unfortunately.
+Mistral_1360|I never imagined कि वो इतने अच्छे से speech deliver कर सकता है.
+Mistral_1361|Honestly, उसका attitude थोड़ा arrogant लग रहा था today.
+Mistral_1362|The last movie I watched इतनी boring थी that I left in between.
+Mistral_1363|By the way, तुम्हारा वो नया bag बहुत stylish लग रहा है.
+Mistral_1364|When we started the project, हमें बिल्कुल idea नहीं था कि कहां से शुरू करें.
+Mistral_1365|I tried that hairstyle और सबने कहा it suits me a lot.
+Mistral_1366|Actually, उस restaurant का food उतना अच्छा नहीं था जितनी उसकी hype थी.
+Mistral_1367|We were just talking और अचानक उसने वो सवाल पूछ लिया.
+Mistral_1368|Surprisingly, मुझे उसका reply काफी mature लगा this time.
+Mistral_1369|I forgot to carry my ID और security ने मुझे अंदर नहीं जाने दिया.
+Mistral_1370|The seminar was informative लेकिन थोड़ा repetitive भी लगा मुझे.
+Mistral_1371|Honestly, मुझे बहुत डर लग रहा था but I still gave the speech.
+Mistral_1372|You won’t believe मैंने accidentally अपना phone washing machine में डाल दिया.
+Mistral_1373|The performance was mind-blowing और सबने खड़े होकर clap किया.
+Mistral_1374|While I was shopping, मुझे एक पुराना दोस्त मिल गया randomly.
+Mistral_1375|I’m thinking of taking a short break क्योंकि थोड़ा burn out feel हो रहा है.
+Mistral_1376|Actually, मैंने कुछ नए podcasts start किए हैं during walks.
+Mistral_1377|Just imagine अगर हर दिन vacation जैसा होता तो मज़ा ही आ जाता.
+Mistral_1378|Yesterday we went for a hike और scenery इतनी beautiful थी कि words कम पड़ गए.
+Mistral_1379|The way वो अपनी बातें रखता है, it’s very convincing.
+Mistral_1380|Honestly, मुझे लगता है कि वो मुझे avoid कर रहा है lately.
+Mistral_1381|We all were excited लेकिन जब event cancel हुआ तो बहुत disappointment हुआ.
+Mistral_1382|I opened the fridge और देखा कि मेरा favorite dessert कोई खा चुका है.
+Mistral_1383|Frankly, मुझे अब उस job में interest नहीं रहा anymore.
+Mistral_1384|I was about to pay लेकिन card swipe machine काम नहीं कर रही थी.
+Mistral_1385|Actually, उसका behavior थोड़ा strange लग रहा था आजकल.
+Mistral_1386|Yesterday, जब मैं garden में बैठा था, a bird came really close to me.
+Mistral_1387|I think अब time आ गया है to make a serious decision.
+Mistral_1388|While watching the sunset, मुझे कुछ important चीजें समझ में आईं.
+Mistral_1389|We were just joking और उसने उसे seriously ले लिया unfortunately.
+Mistral_1390|You know, मुझे हमेशा लगता है कि weekends बहुत जल्दी खत्म हो जाते हैं.
+Mistral_1391|Surprisingly, वो match हमने जीत लिया जो काफी tough लग रहा था.
+Mistral_1392|Honestly, मुझे लगता है कि हमें जल्दी discussion शुरू करना चाहिए था.
+Mistral_1393|He was explaining so well कि सब students attentively सुन रहे थे.
+Mistral_1394|That recipe जो तुमने भेजा था, it turned out amazing.
+Mistral_1395|I tried organizing my desk और अब सब कुछ बहुत clean लग रहा है.
+Mistral_1396|Actually, मैंने नया planner खरीदा है to manage my weekly tasks.
+Mistral_1397|When we started painting, मुझे लगा कि हम time पर finish नहीं कर पाएंगे.
+Mistral_1398|I was really tired लेकिन उसने insist किया to go for a walk.
+Mistral_1399|That feeling जब तुम कोई चीज़ खो दो और फिर वापस मिल जाए – unmatched!
+Mistral_1400|We all thought कि वो angry होगा लेकिन उसने calmly बात की.
+Mistral_1401|I went to that event जहां सब entrepreneurs अपनी stories share कर रहे थे.
+Mistral_1402|You know, मैं हमेशा सोचता हूँ कि काश मैं school time में थोड़ा serious होता.
+Mistral_1403|Honestly, मुझे वो coffee इतनी पसंद आई कि मैंने दूसरी cup भी ली.
+Mistral_1404|During the class, मैंने realize किया कि मुझे थोड़ी ज्यादा preparation करनी चाहिए थी.
+Mistral_1405|I always used to think कि घर के काम easy होते हैं – not anymore.
+Mistral_1406|Actually, वो deal काफी better थी than what I expected.
+Mistral_1407|I visited my grandparents और उनके साथ time बिताकर बहुत अच्छा लगा.
+Mistral_1408|That moment जब तुम्हें पता चले कि holiday extend हो गई – pure joy!
+Mistral_1409|I forgot my umbrella और फिर बारिश में पूरी तरह भीग गया.
+Mistral_1410|Honestly, मुझे नहीं लगा था कि मैं इस deadline को meet कर पाऊंगा.
+Mistral_1411|The lecture was going on और तभी electricity चली गई.
+Mistral_1412|I started journaling recently और उससे मुझे काफी clarity मिल रही है.
+Mistral_1413|While cleaning my cupboard, मुझे कुछ पुराने photos मिले जो nostalgic थे.
+Mistral_1414|I was shocked जब मुझे पता चला कि वो city छोड़ रहा है.
+Mistral_1415|The way उसने team को motivate किया, it was truly inspiring.
+Mistral_1416|Actually, मुझे थोड़ा break चाहिए to refresh my mind.
+Mistral_1417|You know, जब भी मैं उस cafe में जाता हूँ, मुझे बहुत peace feel होता है.
+Mistral_1418|Honestly, मुझे नहीं लगता कि वो माफ करेगा this time.
+Mistral_1419|We went for a movie और उसके बाद dinner at our favorite place.
+Mistral_1420|The moment I saw the result, मेरी खुशी का ठिकाना नहीं रहा.
+Mistral_1421|Yesterday, मुझे वो पुरानी किताब मिली जिसे मैं बहुत ढूंढ रहा था.
+Mistral_1422|I always enjoy reading जब weather थोड़ा cloudy होता है.
+Mistral_1423|I made tea और फिर realize किया कि milk ही नहीं है.
+Mistral_1424|That match बहुत intense था लेकिन end में हमने जीत हासिल की.
+Mistral_1425|I was just checking my email और देखा कि promotion का mail आया है.
+Mistral_1426|Surprisingly, वो plan जल्दी ready हो गया than expected.
+Mistral_1427|You won’t believe मैंने finally swimming सीख ली.
+Mistral_1428|During meditation, मुझे अपने thoughts clear समझ में आने लगे.
+Mistral_1429|Actually, मुझे लगता है कि हमें थोड़ा budget cut करना पड़ेगा.
+Mistral_1430|I went for grocery shopping और मुझे कुछ extra चीजें भी लेनी पड़ीं.
+Mistral_1431|The way she handled the situation, it was really impressive.
+Mistral_1432|Honestly, मुझे अब realize हो रहा है कि मैंने कितना time waste किया.
+Mistral_1433|Yesterday, मेरा mood off था but music ने सब ठीक कर दिया.
+Mistral_1434|I got up early और देखा कि sunrise कितना beautiful था.
+Mistral_1435|That course बहुत useful था लेकिन थोड़ा costly भी था.
+Mistral_1436|While browsing online, मुझे एक बहुत cool gadget मिला.
+Mistral_1437|I always keep a diary जिसमें मैं daily highlights लिखता हूँ.
+Mistral_1438|Actually, मुझे थोड़ी motivation की ज़रूरत है these days.
+Mistral_1439|The podcast जो मैंने सुना, it gave me a new perspective.
+Mistral_1440|I was trying to rest लेकिन neighbors ने इतना loud music चलाया.
+Mistral_1441|You know, कभी-कभी छोटी बातें बहुत खुशी देती हैं.
+Mistral_1442|Frankly, मुझे नहीं पता कि अब next step क्या होना चाहिए.
+Mistral_1443|I visited the book fair और कुछ amazing books खरीदीं.
+Mistral_1444|When I started writing, मुझे लगा कि मैं flow में आ गया हूँ.
+Mistral_1445|That moment जब teacher ने मेरी तारीफ की – I still remember it.
+Mistral_1446|I was in a dilemma और फिर एक दोस्त की advice ने clarity दी.
+Mistral_1447|Actually, I’m planning to redesign my room a bit.
+Mistral_1448|I was thinking कि weekend पर थोड़ी hiking की जाए.
+Mistral_1449|The way weather change हो रहा है, it’s really unpredictable.
+Mistral_1450|Honestly, मुझे अब लगता है कि patience रखना बहुत ज़रूरी है.
+Mistral_1451|Suddenly, मुझे realize हुआ कि मैंने charger घर पर ही छोड़ दिया.
+Mistral_1452|Last Sunday we planned a picnic और मौसम surprisingly बहुत अच्छा था.
+Mistral_1453|Before sleeping, मैं usually थोड़ा music सुनता हूँ to calm my mind.
+Mistral_1454|She always speaks so politely कि सामने वाला impressed हो ही जाता है.
+Mistral_1455|Just when I thought सब सही चल रहा है, something unexpected happened.
+Mistral_1456|My favorite time of the day है वो सुबह की शांति वाली moments.
+Mistral_1457|Every now and then, मुझे लगता है कि थोड़ा time अपने लिए भी चाहिए.
+Mistral_1458|I started cooking pasta और बीच में ही gas खत्म हो गई.
+Mistral_1459|That cafe जहां हम गए थे, उसका coffee बहुत ही rich flavor वाला था.
+Mistral_1460|While attending the webinar, मेरा internet connection बार-बार disconnect हो रहा था.
+Mistral_1461|This reminds me of the time जब हम एक accidental road trip पर निकल पड़े थे.
+Mistral_1462|Frankly, मुझे उसका tone थोड़ा rude लगा during the call.
+Mistral_1463|I bought new shoes और वो इतने comfortable हैं कि पहनकर निकलने का मन करता है.
+Mistral_1464|That sudden rain last evening ने पूरा plan ही खराब कर दिया.
+Mistral_1465|You should try that recipe जो मैंने YouTube पर देखा था, बहुत easy है.
+Mistral_1466|The way she danced on stage, मुझे goosebumps आ गए.
+Mistral_1467|I was waiting for the call और तभी power cut हो गया.
+Mistral_1468|That awkward moment जब कोई तुम्हें गलती से किसी और के नाम से बुलाए.
+Mistral_1469|I tried painting after years और वो experience surprisingly peaceful था.
+Mistral_1470|Honestly, मैं थोड़ा nervous था but सब smooth चला thankfully.
+Mistral_1471|My phone battery almost dead थी और मुझे urgently cab book करनी थी.
+Mistral_1472|When I opened the parcel, उसमें wrong item निकला sadly.
+Mistral_1473|That friend जिसे मैं school से जानता हूँ, उसे metro में मिला today.
+Mistral_1474|I was about to step out और बारिश अचानक शुरू हो गई.
+Mistral_1475|While writing the email, मुझे समझ नहीं आया कैसे शुरू करूं.
+Mistral_1476|That awkward silence जब तुम्हें समझ न आए क्या reply करें.
+Mistral_1477|My bag fell in mud और मुझे पूरा clean करना पड़ा.
+Mistral_1478|You won’t believe मैंने आज पहली बार poetry लिखी और अच्छा लगा.
+Mistral_1479|When she smiled at me, मुझे थोड़ा awkward feel हुआ.
+Mistral_1480|That train journey was so peaceful कि I didn’t want it to end.
+Mistral_1481|The presentation में जो graphics use किए थे, they were amazing.
+Mistral_1482|Every time I open my notes, मुझे लगता है मैंने कुछ miss कर दिया है.
+Mistral_1483|That bookstore जहां हम गए थे, वहाँ का vibe बहुत peaceful था.
+Mistral_1484|Frankly, मैंने जितना सोचा था उससे ज्यादा मज़ा आया trip में.
+Mistral_1485|Yesterday’s walk during sunset was something magical और बहुत calming.
+Mistral_1486|I found my old sketchbook जिसमें childhood की drawings थीं.
+Mistral_1487|She baked a cake और उसका taste genuinely बहुत अच्छा था.
+Mistral_1488|I went to that workshop जहां उन्होंने बहुत useful techniques सिखाईं.
+Mistral_1489|You know, कभी-कभी silence भी बहुत ज़्यादा expressive होता है.
+Mistral_1490|That scene in the movie literally made me emotional और आंखें नम हो गईं.
+Mistral_1491|I was thinking कि शायद अब gym join करना चाहिए seriously.
+Mistral_1492|The concert में इतनी crowd थी कि entry लेना मुश्किल हो गया.
+Mistral_1493|She spoke about her journey और सब लोग inspired हो गए.
+Mistral_1494|I missed the bus और फिर auto वालों ने बहुत charge किया.
+Mistral_1495|Honestly, मुझे वो gift बहुत thoughtful लगा जो तुमने भेजा.
+Mistral_1496|I started reading that novel और उसका plot बहुत interesting लगा.
+Mistral_1497|When I visited grandma, उन्होंने मेरे लिए specially sweets बनाई थीं.
+Mistral_1498|The moment I stepped out, मुझे बहुत fresh feel हुआ after staying in all day.
+Mistral_1499|You should watch that documentary जिसमें climate change का impact दिखाया गया है.
+Mistral_1500|That day जब सबने मेरा birthday surprise दिया, it felt so special.
+Mistral_1501|Sometimes, मुझे लगता है कि थोड़ी देर nature में walk करना बहुत soothing होता है.
+Mistral_1502|The food delivery delay इतना ज़्यादा हो गया कि भूख ही खत्म हो गई.
+Mistral_1503|I was just chilling और तभी मुझे एक urgent call आ गया.
+Mistral_1504|That seminar में जो speaker थे, उन्होंने बहुत confidently बात की.
+Mistral_1505|Every morning, I try to meditate थोड़ा और mind fresh feel करता है.
+Mistral_1506|The power cut ruined my online class और मुझे बहुत problem हुई.
+Mistral_1507|I saw that meme और literally हँसी रोक नहीं पाया.
+Mistral_1508|That restaurant जहाँ हम last time गए थे, उसका ambience बहुत classy था.
+Mistral_1509|When she said “thank you,” वो बहुत genuine लगा सुनकर.
+Mistral_1510|I joined a course और उसमें assignments बहुत engaging हैं.
+Mistral_1511|Sometimes, मुझे लगता है कि past mistakes से ही हम ज़्यादा सीखते हैं.
+Mistral_1512|That dog in the park literally stole my heart, इतना friendly था.
+Mistral_1513|I thought वो joke समझ जाएगा but वो seriously ले लिया sadly.
+Mistral_1514|We were about to start the game और तभी system crash हो गया.
+Mistral_1515|That lecture ने मुझे काफी motivate किया to work harder.
+Mistral_1516|She created an artwork और मुझे देख के wow feel हुआ.
+Mistral_1517|I wrote a poem और surprisingly लोगों ने बहुत appreciate किया.
+Mistral_1518|That awkward moment जब message गलती से wrong group में चला जाए.
+Mistral_1519|While walking, मैंने accidentally किसी को bump कर दिया.
+Mistral_1520|You won’t believe, मुझे dream में अपना पुराना school दिखा.
+Mistral_1521|That quote मैंने diary में लिखा क्योंकि वो बहुत inspiring लगा.
+Mistral_1522|I tried helping him लेकिन वो खुद ही manage करना चाहता था.
+Mistral_1523|That one day जब सब perfect था – rare but memorable.
+Mistral_1524|I was updating my resume और realize किया कि काफी कुछ add करना है.
+Mistral_1525|That call जिसने पूरी evening का mood ही बदल दिया.
+Mistral_1526|Honestly, मुझे लगता है कि time जल्दी भाग रहा है.
+Mistral_1527|That ad मैंने बार-बार देखा और फिर भी boring नहीं लगा.
+Mistral_1528|I was humming a tune और पता ही नहीं चला कब lyrics बन गए.
+Mistral_1529|She told me a story जो काफी दिलचस्प थी और काफी कुछ सिखा गई.
+Mistral_1530|While traveling, मैंने बहुत सारी photos लीं – mostly nature की.
+Mistral_1531|That podcast episode literally opened my mind to a new perspective.
+Mistral_1532|I wanted to sleep early लेकिन binge watching ने सब खराब कर दिया.
+Mistral_1533|That weird dream अभी तक याद है – बहुत confusing था.
+Mistral_1534|While scrolling, मुझे एक पुराना memory video मिला on cloud.
+Mistral_1535|I was not expecting इतना अच्छा response from the audience.
+Mistral_1536|That speaker ने इतने simple words में tough concept समझा दिया.
+Mistral_1537|Honestly, मुझे लगा था ये task boring होगा but it turned out fun.
+Mistral_1538|While cleaning desk, मुझे कई पुराने notes मिले जो बहुत useful थे.
+Mistral_1539|I missed the webinar लेकिन recordings से कुछ समझ में आ गया.
+Mistral_1540|That shopkeeper बहुत sweet था और उसने discount भी दिया.
+Mistral_1541|I joined a challenge जिसमें 30 days तक healthy खाना होता है.
+Mistral_1542|That artist ने जो painting बनाई थी – it was simply stunning.
+Mistral_1543|I never expected कि वो इतनी जल्दी reply कर देगा.
+Mistral_1544|The way वो express करती है – very rare और authentic लगता है.
+Mistral_1545|I laughed so hard कि मेरी आंखों में आंसू आ गए.
+Mistral_1546|That random compliment made my day और मुझे बहुत अच्छा feel हुआ.
+Mistral_1547|I went to a live gig और vibe बहुत energetic थी.
+Mistral_1548|While sipping tea, मैंने suddenly एक नया idea plan कर लिया.
+Mistral_1549|The meeting start होते ही technical issues आ गए unfortunately.
+Mistral_1550|Honestly, मुझे थोड़ा guilty feel हुआ कि मैं late आया.
+Mistral_1551|That smell of rain always brings nostalgic feelings with it.
+Mistral_1552|I was expecting parcel लेकिन delivery guy wrong address चला गया.
+Mistral_1553|That subtle smile जब उसने देखा कि मैं wait कर रहा हूँ.
+Mistral_1554|While driving, मुझे बहुत peace मिलता है especially with good music.
+Mistral_1555|I had a dream जिसमें मैं random island पर घूम रहा था.
+Mistral_1556|That friend जो हमेशा late आता है, आज surprisingly early आया.
+Mistral_1557|I started watching that series और एक episode में ही hook हो गया.
+Mistral_1558|That cafe का banana shake genuinely बहुत tasty था.
+Mistral_1559|I was packing my bag और essential items भूल गया sadly.
+Mistral_1560|That evening breeze और हल्की बारिश – perfect combo for peace.
+Mistral_1561|While returning, मुझे रास्ता याद नहीं आ रहा था.
+Mistral_1562|I met a stranger जो बहुत friendly और helpful था.
+Mistral_1563|That day जब मैंने खुद के लिए time निकाला – much needed.
+Mistral_1564|Honestly, मुझे लगा कि वो मज़ाक कर रहा है but he was serious.
+Mistral_1565|That voice message accidentally wrong person को भेज दिया.
+Mistral_1566|I checked my calendar और realize किया next week holidays हैं.
+Mistral_1567|That smile जब तुम्हें कुछ अच्छा मिल जाए unexpectedly.
+Mistral_1568|I got a message from someone I hadn’t talked in years.
+Mistral_1569|While cooking, I played my favorite playlist और mood instantly अच्छा हो गया.
+Mistral_1570|That strange coincidence जब दो लोग same outfit में मिलते हैं.
+Mistral_1571|I sat quietly और clouds को देखता रहा for peace of mind.
+Mistral_1572|That one book जिसने मेरी thinking ही बदल दी.
+Mistral_1573|While typing, मैंने accidentally सब delete कर दिया sadly.
+Mistral_1574|Honestly, मुझे आज बहुत lazy feel हो रहा है.
+Mistral_1575|I was fixing a bulb और current shock लग गया हल्का सा.
+Mistral_1576|That ice cream shop में flavors इतने ज़्यादा थे कि choice करना मुश्किल था.
+Mistral_1577|That time जब किसी ने बिना पूछे help की – pure kindness.
+Mistral_1578|I looked out the window और view बहुत calming था.
+Mistral_1579|That inspirational talk ने मुझे काफी motivate किया.
+Mistral_1580|I opened my drawer और उसमें old friendship bands मिले.
+Mistral_1581|That moment जब train स्टेशन से just निकल जाती है – pure frustration.
+Mistral_1582|While jogging, मुझे बहुत ideas आते हैं which I later note.
+Mistral_1583|That song reminded me of a special memory from school.
+Mistral_1584|I walked past that lane जहां childhood की कई memories जुड़ी हैं.
+Mistral_1585|That teacher जो हमेशा encourage करती थी – still remembered.
+Mistral_1586|While helping mom, मुझे realize हुआ कितना tough होता है her day.
+Mistral_1587|That one festival जहां सब लोग मिलकर celebrate करते हैं – best vibes.
+Mistral_1588|I forgot password और फिर recover करने में बहुत time लग गया.
+Mistral_1589|That drawing मैंने childhood में बनाई थी और अभी तक संभालकर रखी है.
+Mistral_1590|I wanted to surprise her लेकिन उसने पहले ही guess कर लिया.
+Mistral_1591|That night जब हम rooftop पर बैठकर hours तक बातें कर रहे थे.
+Mistral_1592|While walking in park, मुझे birds की आवाज़ सुनकर बहुत अच्छा feel हुआ.
+Mistral_1593|That one teacher’s compliment still motivates me today.
+Mistral_1594|I recorded a song और friends ने बहुत appreciate किया.
+Mistral_1595|That 5-minute nap turned into 2 hours without realizing.
+Mistral_1596|While packing gifts, मैंने accidentally दो बार same चीज़ wrap कर दी.
+Mistral_1597|That trip जिसने मेरी whole perspective change कर दी.
+Mistral_1598|I clicked a photo और उसमें sunset का perfect reflection आया.
+Mistral_1599|That sudden hug from a friend made my mood instantly better.
+Mistral_1600|I got an email जिसमें लिखा था – “You’re selected” and I was thrilled.
+Mistral_1601|That alert sound आया और सब panic में आ गए.
+Mistral_1602|I went live on Instagram और लोग instantly join करने लगे.
+Mistral_1603|That moment जब तुम elevator में अकेले हो और कोई hello कह देता है.
+Mistral_1604|While rearranging bookshelf, मुझे कई forgotten novels मिल गईं.
+Mistral_1605|I planned to stay indoors लेकिन weather इतना pleasant था कि बाहर जाना पड़ा.
+Mistral_1606|That single message changed my entire mood for the better.
+Mistral_1607|I missed the webinar और अब recording ढूंढनी पड़ रही है.
+Mistral_1608|That perfume reminded me of college days instantly.
+Mistral_1609|I walked into the room और सबने चुपचाप surprise दिया.
+Mistral_1610|That street performer इतना talented था कि crowd रुक गई देखने.
+Mistral_1611|I heard a song और childhood की यादें वापस आ गईं.
+Mistral_1612|That final exam इतना tough था कि सब डर गए थे.
+Mistral_1613|While waiting in queue, मैंने कुछ motivational videos देखे.
+Mistral_1614|That vacation इतनी relaxing थी कि वापस काम पर लौटना मुश्किल लग रहा है.
+Mistral_1615|I opened my inbox और देखा कि offer letter आया है.
+Mistral_1616|That ringtone किसी पुराने दोस्त की याद दिला गई.
+Mistral_1617|I joined a live session और वो बहुत engaging था.
+Mistral_1618|That peaceful morning coffee और newspaper का combo unbeatable है.
+Mistral_1619|I heard someone say my name लेकिन पास में कोई नहीं था.
+Mistral_1620|That random call turned into a 2-hour long deep conversation.
+Mistral_1621|I started writing diary और अब उसे daily habit बना लिया है.
+Mistral_1622|That motivational speaker ने इतनी clarity से बात की कि mind open हो गया.
+Mistral_1623|I painted a wall और वो shade expected से ज्यादा अच्छा निकला.
+Mistral_1624|That echo in the mountains gave a surreal experience.
+Mistral_1625|I was reading peacefully और अचानक bell बज गई.
+Mistral_1626|That water fountain के पास बैठना बहुत calming लगता है.
+Mistral_1627|I joined an online class और उसमें interaction काफी अच्छा था.
+Mistral_1628|That last bite of dessert हमेशा सबसे tasty लगती है.
+Mistral_1629|I looked outside और clouds का pattern बहुत artistic लगा.
+Mistral_1630|That time जब तुम्हें कोई unknowingly inspire कर जाए – priceless!
+Mistral_1631|I changed my workspace और इससे मेरा focus improve हो गया.
+Mistral_1632|That metro ride में मैंने एक old classmate को recognize किया.
+Mistral_1633|I listened to her story और उसमें बहुत strength थी.
+Mistral_1634|That smell of fresh books हमेशा mind fresh कर देता है.
+Mistral_1635|I found an old playlist जिसमें सारे favourite tracks थे.
+Mistral_1636|That sudden hug from sibling made my whole day.
+Mistral_1637|I went to watch stars और sky पूरा clear था surprisingly.
+Mistral_1638|That book recommendation actually turned out life-changing.
+Mistral_1639|I got a call और वो exactly वो news लेकर आया जिसका इंतज़ार था.
+Mistral_1640|That one sentence उसने casually कहा और वो मेरे दिल में बस गया.
+Mistral_1641|I joined a discussion forum और वहाँ की conversations काफी insightful थीं.
+Mistral_1642|That old school bell sound मुझे instantly past में ले गया.
+Mistral_1643|I started doodling और वो accidental art काफी अच्छा बना.
+Mistral_1644|That clumsy moment जब glass हाथ से गिर जाए in front of everyone.
+Mistral_1645|I walked through a flea market और वहां बहुत unique चीज़ें मिलीं.
+Mistral_1646|That lazy afternoon nap बहुत refreshing लगी unexpectedly.
+Mistral_1647|I passed by that college canteen और पुरानी memories flood हो गईं.
+Mistral_1648|That one rainy evening, मैंने सिर्फ chai और stories enjoy कीं.
+Mistral_1649|I finally cleaned my inbox और अब बहुत organized feel हो रहा है.
+Mistral_1650|That realization जब समझ आता है कि तुम्हारा perspective गलत था – very humbling.
+Mistral_1651|While everyone was busy dancing, मैंने quietly corner में बैठकर vibe enjoy की.
+Mistral_1652|I accidentally sent the message जिसे मैंने सिर्फ draft करना चाहा था.
+Mistral_1653|That short walk after lunch ने पूरे दिन की थकान निकाल दी.
+Mistral_1654|I bought a new diary और उसमें लिखना surprisingly therapeutic लगा.
+Mistral_1655|That sound of temple bells हमेशा दिल को सुकून देता है.
+Mistral_1656|I met a stranger जिसने मुझे सही रास्ता बताया without even asking.
+Mistral_1657|That awkward moment जब तुम्हें लगता है कोई तुम्हें देख रहा है.
+Mistral_1658|I sat by the lake और हवा की ठंडक बहुत soothing लगी.
+Mistral_1659|That project जिस पर मैंने weeks spend किए थे, finally approved हो गया.
+Mistral_1660|I joined the call और सभी लोग पहले से ही serious discussion में थे.
+Mistral_1661|That painting exhibition genuinely blew my mind – बहुत detailed work था.
+Mistral_1662|I was reading silently और suddenly मेरे कानों में old Bollywood tune बजने लगा.
+Mistral_1663|That one teacher जो हमें हर छोटी achievement पर cheer करते थे – unforgettable.
+Mistral_1664|I saw a rainbow और उस moment में सब worries vanish हो गईं.
+Mistral_1665|That first sip of morning tea हमेशा सबसे satisfying होती है.
+Mistral_1666|I finally bought that gadget जिसकी मैं months से planning कर रहा था.
+Mistral_1667|That friend जिसे तुम years से नहीं मिले थे और suddenly सामने आ जाए.
+Mistral_1668|I tried vlogging और surprisingly मुझे वो process बहुत मज़ेदार लगा.
+Mistral_1669|That sweet aroma of freshly baked cookies पूरे घर को fill कर देती है.
+Mistral_1670|I shared my ideas और उन्होंने तुरंत note करना शुरू कर दिया.
+Mistral_1671|That candid photo जो सबसे बेहतर निकलता है – बिना pose किए.
+Mistral_1672|I was enjoying the concert और तभी phone ring करने लगा.
+Mistral_1673|That road trip with cousins still feels like it happened just yesterday.
+Mistral_1674|I visited an art gallery और वहाँ की light arrangements बहुत mesmerizing थीं.
+Mistral_1675|That exact word जब तुम्हें याद नहीं आता और tongue पे आकर रुक जाता है.
+Mistral_1676|I tried organizing my desk लेकिन 10 mins में फिर से messy हो गया.
+Mistral_1677|That background music जिसने पूरी scene की feel बदल दी.
+Mistral_1678|I picked up the guitar और अचानक एक अच्छी tune बन गई.
+Mistral_1679|That friend who remembers tiny details हमेशा दिल के करीब होता है.
+Mistral_1680|I waited patiently और आखिरकार मेरा turn आया interview में.
+Mistral_1681|That moment जब तुम्हें लगता है time literally fly कर रहा है.
+Mistral_1682|I was trying to sleep लेकिन neighbors की आवाज़ें disturb कर रही थीं.
+Mistral_1683|That one memory जिसे सोचकर आज भी चेहरे पर मुस्कान आ जाती है.
+Mistral_1684|I was in the middle of workout और power cut हो गया.
+Mistral_1685|That random act of kindness जो पूरे दिन का mood change कर देता है.
+Mistral_1686|I wanted to reply instantly लेकिन words नहीं मिल रहे थे.
+Mistral_1687|That awkward silence जब सभी को एक साथ कुछ बोलना था.
+Mistral_1688|I visited an old bookstore और वहाँ का smell मुझे instantly nostalgic बना गया.
+Mistral_1689|That rooftop view जहां से पूरा city lit दिखता है – unbeatable.
+Mistral_1690|I missed the show लेकिन repeat telecast ने बचा लिया.
+Mistral_1691|That drawing जो मैंने बचपन में बनाई थी, अभी भी cupboard में है.
+Mistral_1692|I started sketching casually और धीरे-धीरे पूरा canvas भर गया.
+Mistral_1693|That one app जिसने मेरी productivity बहुत improve कर दी.
+Mistral_1694|I tried making coffee और accidentally salt डाल दिया.
+Mistral_1695|That cold breeze in the morning हमेशा एक अलग freshness लाती है.
+Mistral_1696|I entered the room और सभी मेरी तरफ देख रहे थे silently.
+Mistral_1697|That coin toss जिसने whole game का result change कर दिया.
+Mistral_1698|I started watching a movie और realize किया कि already seen है.
+Mistral_1699|That photo जो blur थी but feel में सबसे authentic निकली.
+Mistral_1700|I stepped into the hall और lights instantly dim हो गईं.
+Mistral_1701|That random playlist shuffle और perfect song मिल जाए – pure luck.
+Mistral_1702|I wrote a caption और उसे पढ़कर सभी हँसने लगे.
+Mistral_1703|That sound of ocean waves बिल्कुल therapy जैसा लगता है.
+Mistral_1704|I kept talking और realize किया कि सामने वाला सो चुका है.
+Mistral_1705|That moment जब तुम्हें कोई compliment दे unexpected way में.
+Mistral_1706|I was scrolling late night और एक ऐसा meme दिखा कि loud laugh आ गई.
+Mistral_1707|That pen जो हमेशा काम करता है – सबसे प्यारा stationary होता है.
+Mistral_1708|I gave my opinion और किसी ने उसे genuinely appreciate किया.
+Mistral_1709|That background score जिसने पूरी movie को soulful बना दिया.
+Mistral_1710|I missed my alarm और direct meeting join करनी पड़ी half asleep.
+Mistral_1711|That smell of wet soil जब पहली बारिश होती है – unmatched!
+Mistral_1712|I received a parcel और उसमें handwritten note था – very touching.
+Mistral_1713|That moment जब तुम कुछ भूल जाओ और बाद में सिर पकड़ लो.
+Mistral_1714|I played an old game और memories flood हो गईं instantly.
+Mistral_1715|That sudden loud noise जो complete silence में echo करे.
+Mistral_1716|I was just thinking और तभी वो same topic सामने आ गया.
+Mistral_1717|That one chai stall जहां की taste किसी 5-star से better लगती है.
+Mistral_1718|I wore mismatched socks और तब तक पता नहीं चला जब तक किसी ने नहीं कहा.
+Mistral_1719|That sudden realization कि weekend खत्म होने वाला है.
+Mistral_1720|I joined a live meditation session और बहुत शांति महसूस हुई.
+Mistral_1721|That clock जिसकी टिक-टिक सुनकर भी नींद आ जाती है.
+Mistral_1722|I got a new wallpaper और उसने पूरे phone का vibe बदल दिया.
+Mistral_1723|That day जब बारिश और धूप दोनों एक साथ हो – magic!
+Mistral_1724|I found a coin from 90s और instantly बचपन याद आ गया.
+Mistral_1725|That mini fight जो बाद में longest laughter में बदल जाती है.
+Mistral_1726|I was writing fast और pen की ink खत्म हो गई.
+Mistral_1727|That feeling जब तुम्हें अचानक किसी पुरानी चीज़ की याद आ जाए.
+Mistral_1728|I opened my camera roll और hours तक पुरानी pics देखता रहा.
+Mistral_1729|That one sentence in a book जिससे पूरा सोचने का तरीका बदल जाए.
+Mistral_1730|I forgot to carry water और पूरा दिन thirsty रहा.
+Mistral_1731|That park bench जहां घंटों बैठने का मन करे – rare comfort.
+Mistral_1732|I posted a reel और within minutes views आना शुरू हो गया.
+Mistral_1733|That book cover इतना beautiful था कि तुरंत खरीदी.
+Mistral_1734|I tried a new hairstyle और सबने compliment दिया.
+Mistral_1735|That ringtone जो किसी के आने से पहले बजती थी – pure memory.
+Mistral_1736|I changed my alarm tone और उससे mood instantly better हो गया.
+Mistral_1737|That hug जो बिना कुछ कहे सब कुछ कह देता है.
+Mistral_1738|I entered the kitchen और instantly खाना बनाने का मन बन गया.
+Mistral_1739|That sticker जो laptop पर लगाया था और अब वो identity बन गई है.
+Mistral_1740|I made a playlist जिसमें सिर्फ वो songs हैं जो heart-touching हों.
+Mistral_1741|That outfit जो accidental choice था लेकिन सबसे अच्छा लग रहा था.
+Mistral_1742|I spilled coffee और फिर cleaning में ही 15 minutes निकल गए.
+Mistral_1743|That online deal जो बिल्कुल last second में हाथ से निकल गई.
+Mistral_1744|I joined a virtual concert और उसके energy ने मुझे cheer कर दिया.
+Mistral_1745|That perfect lighting जिसमें हर photo cinematic दिखती है.
+Mistral_1746|I opened the fridge और forgot मैं क्या लेने आया था.
+Mistral_1747|That street food जो किसी luxury meal से better लगता है.
+Mistral_1748|I bought a plant और daily उसका care करना now my routine है.
+Mistral_1749|That perfect reply जो बाद में दिमाग में आता है – not in the moment.
+Mistral_1750|I tried journaling और now it's my daily therapy.
+Mistral_1751|That random quote in a movie जिसने पूरा scene बदल दिया.
+Mistral_1752|I was texting fast और autocorrect ने सब meaning बदल दिए.
+Mistral_1753|That ride through empty roads under moonlight – unforgettable peace.
+Mistral_1754|I was bored और तभी old friend का message आ गया.
+Mistral_1755|That one emoji जो हर expression perfect capture करता है.
+Mistral_1756|I was taking a nap और dream में musical concert चल रहा था.
+Mistral_1757|That decorative light जो festive mood instantly बना देती है.
+Mistral_1758|I tried baking cake और वो surprisingly soft निकला.
+Mistral_1759|That honest review जिसने मुझे किसी चीज़ से बचा लिया.
+Mistral_1760|I checked my notifications और सब motivational quotes से भरे थे.
+Mistral_1761|That view from terrace जहां से पूरा skyline दिखता है – absolutely stunning.
+Mistral_1762|I clicked a selfie और पीछे accidentally कोई photobomb कर गया.
+Mistral_1763|That one dish जो बचपन में favourite थी, आज भी वैसी ही लगती है.
+Mistral_1764|I opened my diary और देखा कि last entry एक साल पुरानी है.
+Mistral_1765|That last-minute plan जो सबसे ज़्यादा fun होता है.
+Mistral_1766|I heard someone laugh और वो आवाज़ बहुत familiar लगी.
+Mistral_1767|That smell from kitchen जो hunger suddenly double कर दे.
+Mistral_1768|I cleaned my cupboard और कई lost items वापस मिल गईं.
+Mistral_1769|That movie climax जिसने पूरी audience को silent कर दिया.
+Mistral_1770|I started humming और देखा कि आसपास लोग सुन रहे थे.
+Mistral_1771|That feeling जब तुम्हें कोई random stranger help कर दे बिना पूछे.
+Mistral_1772|I touched my school badge और सारी memories वापस आ गईं.
+Mistral_1773|That cute dog in the park instantly सबका attention ले गया.
+Mistral_1774|I waved at someone और realize किया कि वो किसी और को देख रहा था.
+Mistral_1775|That moment जब तुम किसी से बात करते हुए exact words भूल जाओ.
+Mistral_1776|I opened my laptop और battery already dead थी.
+Mistral_1777|That unexpected compliment जो पूरे दिन की energy बना दे.
+Mistral_1778|I saw an old watch और instantly उसे wind करने की कोशिश की.
+Mistral_1779|That subtle smile किसी stranger की, जिससे दिन अच्छा लगने लगे.
+Mistral_1780|I walked into the kitchen और forgot मैं क्या लेने आया था.
+Mistral_1781|That perfect sunset view जहां light और clouds का balance amazing था.
+Mistral_1782|I checked my old emails और उसमें कुछ forgotten memories मिल गईं.
+Mistral_1783|That distant thunder जो rain आने से पहले feel करवाता है.
+Mistral_1784|I randomly danced in my room और वो moment बहुत freeing लगा.
+Mistral_1785|That one wallpaper जो हर बार phone unlock करते ही खुश कर दे.
+Mistral_1786|I opened a gift और उसमें मेरा favourite color निकला.
+Mistral_1787|That friend जो हर बात पे हँसता है – mood booster होता है.
+Mistral_1788|I wrote a message और send करने से पहले दस बार सोचा.
+Mistral_1789|That ice cream truck की आवाज़ सुनते ही बचपन याद आ जाता है.
+Mistral_1790|I heard a podcast और उसमें एक quote दिल में उतर गया.
+Mistral_1791|That moment जब headphones tangled हों और urgently music चाहिए हो.
+Mistral_1792|I clicked a landscape shot और उसमें accidental rainbow भी आ गया.
+Mistral_1793|That street corner जहां की coffee सबसे better लगती है.
+Mistral_1794|I tried to explain और सामने वाला already समझ चुका था.
+Mistral_1795|That spark in eyes जब कोई अपनी passion की बात करे.
+Mistral_1796|I opened an old notebook और उसमें doodles भरे हुए थे.
+Mistral_1797|That time जब तुम्हें लगता है कि clock धीरे चल रही है.
+Mistral_1798|I recorded a voice note और उसमें background noise बहुत आ गया.
+Mistral_1799|That café जहाँ की vibes हमेशा soothing होती हैं.
+Mistral_1800|I was about to sleep और किसी ने funny meme भेज दिया.
+Mistral_1801|That child’s laughter जो हर stress instantly dissolve कर देती है.
+Mistral_1802|I made tea और accidentally double sugar डाल दिया.
+Mistral_1803|That train journey जो slow थी लेकिन scenery बहुत सुंदर था.
+Mistral_1804|I forgot to charge my phone और वो exact time पे switch off हो गया.
+Mistral_1805|That feeling जब rain की first drop तुम्हारे हाथ पे गिरे.
+Mistral_1806|I finally arranged my bookshelf और अब वो देखने में बहुत organized लग रही है.
+Mistral_1807|That one sentence किसी के message में जो पूरे context को बदल दे.
+Mistral_1808|I smiled at a stranger और उसने भी smile back किया – rare moment.
+Mistral_1809|That one pillow जो हमेशा perfect comfort देता है.
+Mistral_1810|I sat by the window और बाहर clouds shapes बना रहे थे.
+Mistral_1811|That old photo frame जिसमें dust जमा हो चुका था – still precious.
+Mistral_1812|I made a checklist और उसमें से कुछ भी tick नहीं कर पाया.
+Mistral_1813|That tiny bell sound जो meditation में calmness बढ़ा देता है.
+Mistral_1814|I heard birds chirping और लगा कि शायद आज weather अच्छा होगा.
+Mistral_1815|That first bite of favorite food जो हमेशा unforgettable रहता है.
+Mistral_1816|I organized my music folders और accidentally deleted one playlist.
+Mistral_1817|That corner table café में जहाँ बैठना most peaceful लगता है.
+Mistral_1818|I saw a falling star और wish करना instantly याद आया.
+Mistral_1819|That perfect pair of socks जो laundry में कभी नहीं मिलते.
+Mistral_1820|I folded my blanket और realize किया वो एक side से wet था.
+Mistral_1821|That intro line किसी song की जो पूरे feel को set कर देती है.
+Mistral_1822|I was texting fast और autocorrect ने पूरे message का meaning बदल दिया.
+Mistral_1823|That one raincoat जो हमेशा सबसे पहले टूटता है season शुरू होते ही.
+Mistral_1824|I walked barefoot on grass और वो moment बहुत grounding लगा.
+Mistral_1825|That ringtone जो किसी special person से linked होती है.
+Mistral_1826|I was about to call और तभी उसी का message आ गया.
+Mistral_1827|That smell of roasted peanuts जो winter में अलग ही vibe देता है.
+Mistral_1828|I updated my phone और सब settings reset हो गईं.
+Mistral_1829|That unexpected silence जब call अचानक कट जाए.
+Mistral_1830|I stepped into water और वो surprisingly warm था.
+Mistral_1831|That feeling जब तुम्हारा लिखा हुआ कोई genuinely appreciate करे.
+Mistral_1832|I lit a candle और उसकी light बहुत soothing लगी.
+Mistral_1833|That trolley sound airport पर सुनते ही excitement शुरू हो जाती है.
+Mistral_1834|I added songs to my playlist और उसमें accidental duplicate आ गया.
+Mistral_1835|That umbrella जो हमेशा rain में काम नहीं करता.
+Mistral_1836|I tried a new recipe और वो surprisingly tasty निकला.
+Mistral_1837|That soft breeze जिसने entire evening को perfect बना दिया.
+Mistral_1838|I was cleaning और उस box में childhood toys मिल गए.
+Mistral_1839|That pen जिसे बार-बार refill करने का मन करे.
+Mistral_1840|I joined a webinar और उसमें speaker का accent बहुत smooth था.
+Mistral_1841|That one slipper जो हर बार washing machine में गायब हो जाती है.
+Mistral_1842|I looked at sky और उसमें airplane का छोटा सा dot दिखा.
+Mistral_1843|That feeling जब train slowly station छोड़ रही होती है.
+Mistral_1844|I wore my hoodie और instantly cozy feel आने लगा.
+Mistral_1845|That walk after dinner जो digestion के साथ-साथ mind को relax करता है.
+Mistral_1846|I tried meditation और first time में ही sleep आ गई.
+Mistral_1847|That sound of books turning in a quiet library – oddly satisfying.
+Mistral_1848|I forgot my charger और पूरे दिन phone usage कम करना पड़ा.
+Mistral_1849|That nap जो accidentally 2 hours की बन जाए.
+Mistral_1850|I got a voice note और उसमें laughter ज्यादा था words से.
+Mistral_1851|That small roadside bookstore इतना hidden था कि वहां treasure जैसी feeling आई.
+Mistral_1852|I sat on the swing और हवा धीरे-धीरे चेहरे से टकराने लगी.
+Mistral_1853|That alarm जो बंद करने के बाद भी दिमाग में बजता रहता है.
+Mistral_1854|I waved from the bus और उसने window से smile back किया.
+Mistral_1855|That sound जब elevator open हो और तुम्हें exact floor मिल जाए.
+Mistral_1856|I searched for my keys और वो fridge के ऊपर रखी मिली.
+Mistral_1857|That time जब सब कुछ pause जैसा लगने लगे – rare peace!
+Mistral_1858|I joined a discussion और उसका tone काफी philosophical था.
+Mistral_1859|That push notification जो हर बार कुछ नया दिखा देता है.
+Mistral_1860|I looked at the moon और उसकी clarity surprisingly high थी tonight.
+Mistral_1861|That last train जिसके छूटते ही plan delay हो गया.
+Mistral_1862|I opened my sketchpad और ideas बिना सोचे flow होने लगे.
+Mistral_1863|That click sound जब camera accidentally perfect shot ले ले.
+Mistral_1864|I heard a name और वो किसी forgotten friend की याद दिला गया.
+Mistral_1865|That carpet जिस पर चलते ही static shock मिल जाए.
+Mistral_1866|I walked into a cafe और पुराना favourite song बज रहा था.
+Mistral_1867|That bucket list item जो अचानक tick हो जाए – bliss!
+Mistral_1868|I changed my ringtone और अब हर call musical लगने लगा है.
+Mistral_1869|That shared silence जो दो लोगों के बीच comfort दिखाता है.
+Mistral_1870|I opened my notes app और देखा उसमें midnight thoughts भरे हुए थे.
+Mistral_1871|That accidental rhyme जब दो sentences naturally match कर जाएं.
+Mistral_1872|I reached the hilltop और wind literally breath-taking थी.
+Mistral_1873|That texture of old paper जो nostalgia से भर देता है.
+Mistral_1874|I started whistling और लोग धीरे-धीरे join करने लगे.
+Mistral_1875|That sudden sneeze जिसने पूरी silence तोड़ दी classroom में.
+Mistral_1876|I looked at my calendar और realize किया कि deadline एक दिन पहले है.
+Mistral_1877|That moment जब तुम mirror में खुद को ठीक से देख नहीं पाते.
+Mistral_1878|I bought new curtains और पूरा room brighter लगने लगा.
+Mistral_1879|That reflection जो puddle में दिखा – more beautiful than expected.
+Mistral_1880|I joined late और सब मुझे ही देख रहे थे awkwardly.
+Mistral_1881|That sip of soup जो cold weather में सबसे comforting लगता है.
+Mistral_1882|I looked for my phone और realize किया कि हाथ में ही है.
+Mistral_1883|That call जो तुम नहीं उठाते और बाद में regret होता है.
+Mistral_1884|I saw an empty bench और वहां बैठते ही mind शांत हो गया.
+Mistral_1885|That festival decoration जिसने पूरे area की vibe change कर दी.
+Mistral_1886|I opened the parcel और उसमें एक handwritten note मिला – sweet touch!
+Mistral_1887|That feeling जब तुम्हारी guess सही निकल जाए random quiz में.
+Mistral_1888|I dropped a spoon accidentally और sound काफी loud निकली.
+Mistral_1889|That last-minute prep जो कभी-कभी सबसे ज्यादा काम आता है.
+Mistral_1890|I tried adjusting the volume और accidentally mute कर दिया.
+Mistral_1891|That shadow जो evening sun में बहुत aesthetic लगती है.
+Mistral_1892|I searched my drawer और उसमें कुछ forgotten letters मिले.
+Mistral_1893|That vibe जब पुराने दोस्तों से मिलते ही time rewind हो जाता है.
+Mistral_1894|I entered a quiet room और sneeze control नहीं कर पाया.
+Mistral_1895|That match-winning moment जिसने सबको एक साथ cheer करने पर मजबूर कर दिया.
+Mistral_1896|I wore my old jacket और उसकी pockets में coins निकले.
+Mistral_1897|That alert message जिसने अचानक सबको attentive बना दिया.
+Mistral_1898|I closed my eyes और traffic noise भी soothing लगने लगी.
+Mistral_1899|That decision जो बहुत risky था लेकिन best निकला.
+Mistral_1900|I visited an antique shop और वहाँ की चीजें टाइम मशीन जैसी लगीं.
+Mistral_1901|That one stare जो किसी stranger की attention capture कर ले.
+Mistral_1902|I cleaned my glasses और suddenly सब crystal clear लगने लगा.
+Mistral_1903|That train horn जो night में अलग ही emotion जगाता है.
+Mistral_1904|I turned off lights और room instantly cozy लगने लगा.
+Mistral_1905|That scratchy sweater जो uncomfortable है but memories से भरा हुआ है.
+Mistral_1906|I stood near the cliff और wind इतनी तेज़ थी कि breath रोकनी पड़ी.
+Mistral_1907|That perfect cup of hot chocolate जो तुम्हें ठंड में hug करता है.
+Mistral_1908|I watched the candle melt और वो oddly satisfying लगा.
+Mistral_1909|That sudden memory जिसने whole conversation pause कर दी.
+Mistral_1910|I read an article और उसका conclusion काफी thought-provoking था.
+Mistral_1911|That ringtone childhood TV show का था – instant nostalgia!
+Mistral_1912|I got lost in the museum और वो experience बहुत surreal था.
+Mistral_1913|That typing sound जब keyboard पर ideas flow करने लगे.
+Mistral_1914|I opened old suitcase और उसमें theatre costume निकला.
+Mistral_1915|That scooter ride जिसने city को एक नई नजर से दिखाया.
+Mistral_1916|I asked a question और पूरी class मेरी तरफ देखने लगी.
+Mistral_1917|That awkward hi जो ex-classmate से अचानक मिलने पर निकला.
+Mistral_1918|I started a playlist और उसमें पहला गाना soul-touching निकला.
+Mistral_1919|That bakery smell जिसने सुबह की शुरुआत खास बना दी.
+Mistral_1920|I spilled water और वो पूरे table पर फैल गया.
+Mistral_1921|That paper plane जो accidental perfect flight ले जाए.
+Mistral_1922|I forgot to wear my watch और बार-बार wrist देखने लगा.
+Mistral_1923|That candle जो बिना हवा के भी खुद बुझ गई.
+Mistral_1924|I typed a message और send करने से पहले ही reply आ गया.
+Mistral_1925|That auto ride जिसने unexpected conversation करा दी.
+Mistral_1926|I used old crayons और उनका texture बहुत satisfying था.
+Mistral_1927|That note on fridge जिसने smile automatically लाने पर मजबूर किया.
+Mistral_1928|I went barefoot on sand और हर step calmness ला रहा था.
+Mistral_1929|That neighbor’s dog जो हर visitor पर bark करता है.
+Mistral_1930|I was writing और suddenly pen से ink leak होने लगी.
+Mistral_1931|That tunnel view जो short होता है but deeply mesmerizing लगता है.
+Mistral_1932|I felt the cold metal railing और instantly chills आए.
+Mistral_1933|That unexpected rainbow जो अचानक window से दिख जाए.
+Mistral_1934|I used the flashlight और उससे पूरा room glow करने लगा.
+Mistral_1935|That empty auditorium जिसकी echo ही sound बन जाती है.
+Mistral_1936|I dusted the shelf और sneeze chain start हो गई.
+Mistral_1937|That one word जो किसी पूरे emotion को express कर दे.
+Mistral_1938|I balanced the chair और वो last second में गिरने से बच गया.
+Mistral_1939|That paper tear sound जब wrapping gift – oddly fulfilling!
+Mistral_1940|I opened a soda can और वो पूरी table पर फैल गया.
+Mistral_1941|That dropped coin जो floor पर circle में घूमता है.
+Mistral_1942|I received a late reply और उससे पूरा context बदल गया.
+Mistral_1943|That unzipped bag जो last moment पर चीजें गिरा दे.
+Mistral_1944|I watched the sunrise और suddenly सब silent हो गया.
+Mistral_1945|That light drizzle जो sunny afternoon में extra magical लगती है.
+Mistral_1946|I stepped on leaves और उनका crunch oddly satisfying लगा.
+Mistral_1947|That pen cap जो कभी time पर नहीं मिलता.
+Mistral_1948|I joined the dots और accidental face बन गया.
+Mistral_1949|That road sign जो गलत direction दिखा दे but adventure बन जाए.
+Mistral_1950|I closed my book और realize किया कितनी देर हो गई है.
+Mistral_1951|I तुम वह the और in है was have देखा।
+Mistral_1952|She we they कर a an and or to of in देखता।
+Mistral_1953|He you they करता है था थे have had go देखा।
+Mistral_1954|We they the एक और but to of in seen looked देखते।
+Mistral_1955|I he she we वे एक और but to felt feeling देखना।
+Mistral_1956|You they the एक और but to of in seen looked देखते।
+Mistral_1957|He we they कर a an and or to of in देखता।
+Mistral_1958|She you they करता है था थे have had go देखा।
+Mistral_1959|I he she we वे एक और but to felt feeling देखना।
+Mistral_1960|You they the एक और but to of in seen looked देखते।
+Mistral_1961|We they कर a an and or to of in देखा।
+Mistral_1962|I he she वे एक और but to felt देखना।
+Mistral_1963|You they the एक और but to of in seen देखते।
+Mistral_1964|He we they कर a an and or to of in देखता।
+Mistral_1965|She you they करता है था थे have देखा।
+Mistral_1966|I he she we वे एक और but to felt feeling देखना।
+Mistral_1967|You they the एक और but to of in seen looked देखते।
+Mistral_1968|We they कर a an and or to of in देखा।
+Mistral_1969|I he she वे एक और but to felt देखना।
+Mistral_1970|You they the एक और but to of in seen देखते।
+Mistral_1971|We they कर a an and or to of in देखा।
+Mistral_1972|I he she वे एक और but to felt देखना।
+Mistral_1973|You they the एक और but to of in seen देखते।
+Mistral_1974|He we they कर a an and or to of in देखता।
+Mistral_1975|She you they करता है था थे have देखा।
+Mistral_1976|I he she we वे एक और but to felt feeling देखना।
+Mistral_1977|You they the एक और but to of in seen looked देखते।
+Mistral_1978|We they कर a an and or to of in देखा।
+Mistral_1979|I he she वे एक और but to felt देखना।
+Mistral_1980|You they the एक और but to of in seen देखते।
+Mistral_1981|He we they कर a an and or to of in देखता।
+Mistral_1982|She you they करता है था थे have had go देखा।
+Mistral_1983|I he she we वे एक और but to felt feeling देखना।
+Mistral_1984|You they the एक और but to of in seen looked देखते।
+Mistral_1985|We they कर a an and or to of in देखा।
+Mistral_1986|I he she वे एक और but to felt देखना।
+Mistral_1987|You they the एक और but to of in seen देखते।
+Mistral_1988|He we they कर a an and or to of in देखता।
+Mistral_1989|She you they करता है था थे have देखा।
+Mistral_1990|I he she we वे एक और but to felt feeling देखना।
+Mistral_1991|You they the एक और but to of in seen looked देखते।
+Mistral_1992|We they कर a an and or to of in देखा।
+Mistral_1993|I he she वे एक और but to felt देखना।
+Mistral_1994|You they the एक और but to of in seen देखते।
+Mistral_1995|He we they कर a an and or to of in देखता।
+Mistral_1996|She you they करता है था थे have had go देखा।
+Mistral_1997|I he she we वे एक और but to felt feeling देखना।
+Mistral_1998|You they the एक और but to of in seen looked देखते।
+Mistral_1999|We they कर a an and or to of in देखा।
+Mistral_2000|I he she वे एक और but to felt देखना।
