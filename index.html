@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CoSSHI - Submitted to IALP 2025</title>
   <style>
     body {
@@ -13,7 +13,7 @@
       color: #333;
     }
     .container {
-      max-width: 900px;
+      max-width: 1200px;
       margin: 40px auto;
       background-color: #ffffff;
       padding: 30px;
@@ -34,90 +34,64 @@
       font-size: 0.95rem;
       color: #777;
     }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-
-    /* Table Styling */
-    .scroll-container {
-      margin-top: 40px;
-      overflow-x: auto;
-    }
-    .rotated-table {
-      transform: rotate(-90deg);
-      transform-origin: left top;
-      margin-top: 60px;
-      display: inline-block;
-    }
     table {
+      width: 100%;
       border-collapse: collapse;
-      font-size: 0.8rem;
+      margin-top: 40px;
+      font-size: 0.85rem;
     }
     th, td {
-      border: 1px solid #888;
-      padding: 6px 8px;
+      border: 1px solid #aaa;
+      padding: 6px;
       text-align: center;
     }
     th {
-      background-color: #e0ecf9;
+      background-color: #eaf1fb;
+    }
+    .col-header {
+      text-align: left;
+      background-color: #f0f0f0;
+      font-weight: bold;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>CoSSHI <em></em></h1>
-    <p class="tagline"><strong>Submitted to:</strong> International Conference on Asian Language Processing (IALP 2025)<br>
+    <h1>CoSSHI</h1>
+    <p class="tagline"><strong>Submitted to:</strong> International Conference on Asian Language Processing (IALP 2025)<br />
     <strong>Location:</strong> Kuching, Malaysia.</p>
 
-    <div class="scroll-container">
-      <div class="rotated-table">
-        <table>
-          <tr>
-            <th>LLMs</th><th>XTTS v1</th><th>XTTS v2</th><th>VITS</th><th>YourTTS</th><th>Bark</th>
-            <th>Indic-TTS</th><th>HiFi-GAN</th><th>BigVGAN</th><th>ParallelWaveGAN</th><th>DiffWave</th>
-            <th>MelGAN</th><th>UnivNet</th><th>VocGAN</th><th>WaveGrad</th><th>Total Time (Hours)</th>
-            <th>US</th><th>UK</th><th>IN</th><th>US</th><th>UK</th><th>US</th>
-          </tr>
-          <tr>
-            <td>ChatGPT</td><td>4080</td><td>4080</td><td>4080</td><td>4080</td><td>2000</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-          </tr>
-          <tr>
-            <td>Gemini</td><td>1830</td><td>1830</td><td>2073</td><td>2073</td><td>2067</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-          </tr>
-          <tr>
-            <td>Grok</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-          </tr>
-          <tr>
-            <td>Mistral</td><td></td><td>2000</td><td></td><td>2000</td><td>1997</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-          </tr>
-          <tr>
-            <td>LLaMA</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
-          </tr>
-        </table>
-      </div>
-    </div>
+    <table>
+      <tr>
+        <th class="col-header">Model</th>
+        <th>ChatGPT</th>
+        <th>Gemini</th>
+        <th>Grok</th>
+        <th>Mistral</th>
+        <th>LLaMA</th>
+      </tr>
+      <tr><td class="col-header">XTTS v1</td><td>4080</td><td>1830</td><td>2000</td><td>2000</td><td>1000</td></tr>
+      <tr><td class="col-header">XTTS v2</td><td>4080</td><td>1830</td><td>2000</td><td>–</td><td>1000</td></tr>
+      <tr><td class="col-header">VITS</td><td>4080</td><td>2073</td><td>2000</td><td>–</td><td>1000</td></tr>
+      <tr><td class="col-header">YourTTS</td><td>4080</td><td>2073</td><td>2000</td><td>2000</td><td>1000</td></tr>
+      <tr><td class="col-header">Bark</td><td>2000</td><td>2067</td><td>2000</td><td>1997</td><td>1000</td></tr>
+      <tr><td class="col-header">Indic-TTS</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">HiFi-GAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">BigVGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">ParallelWaveGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">DiffWave</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">MelGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">UnivNet</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">VocGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">WaveGrad</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">Total Time (Hours)</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">US</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">UK</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">IN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+    </table>
 
     <div class="footer">
-      <p>Copyright &copy; 2025. This paper has been submitted to <strong>IALP 2025</strong> Kuching, Malaysia.</p>
+      <p>&copy; 2025. This paper has been submitted to <strong>IALP 2025</strong>, Kuching, Malaysia.</p>
     </div>
   </div>
 </body>
