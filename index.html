@@ -53,6 +53,11 @@
       background-color: #f0f0f0;
       font-weight: bold;
     }
+    .section-label {
+      background-color: #dcdcdc;
+      font-weight: bold;
+      text-align: left;
+    }
   </style>
 </head>
 <body>
@@ -63,19 +68,25 @@
 
     <table>
       <tr>
-        <th class="col-header">Model</th>
+        <th class="col-header">Category / Model</th>
         <th>ChatGPT</th>
         <th>Gemini</th>
         <th>Grok</th>
         <th>Mistral</th>
         <th>LLaMA</th>
       </tr>
+
+      <!-- TTS Models -->
+      <tr><td class="section-label">TTS Models</td><td colspan="5"></td></tr>
       <tr><td class="col-header">XTTS v1</td><td>4080</td><td>1830</td><td>2000</td><td>2000</td><td>1000</td></tr>
       <tr><td class="col-header">XTTS v2</td><td>4080</td><td>1830</td><td>2000</td><td>–</td><td>1000</td></tr>
       <tr><td class="col-header">VITS</td><td>4080</td><td>2073</td><td>2000</td><td>–</td><td>1000</td></tr>
       <tr><td class="col-header">YourTTS</td><td>4080</td><td>2073</td><td>2000</td><td>2000</td><td>1000</td></tr>
       <tr><td class="col-header">Bark</td><td>2000</td><td>2067</td><td>2000</td><td>1997</td><td>1000</td></tr>
       <tr><td class="col-header">Indic-TTS</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+
+      <!-- Deepfake Models -->
+      <tr><td class="section-label">Deepfake Vocoders</td><td colspan="5"></td></tr>
       <tr><td class="col-header">HiFi-GAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">BigVGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">ParallelWaveGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
@@ -84,10 +95,15 @@
       <tr><td class="col-header">UnivNet</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">VocGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">WaveGrad</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
-      <tr><td class="col-header">Total Time (Hours)</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+
+      <!-- Accent Info -->
+      <tr><td class="section-label">Multi Accent</td><td colspan="5"></td></tr>
       <tr><td class="col-header">US</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">UK</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
       <tr><td class="col-header">IN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+
+      <!-- Total Time at End -->
+      <tr><td class="col-header">Total Time (Hours)</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
     </table>
 
     <div class="footer">
