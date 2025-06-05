@@ -41,6 +41,30 @@
     a:hover {
       text-decoration: underline;
     }
+
+    /* Table Styling */
+    .scroll-container {
+      margin-top: 40px;
+      overflow-x: auto;
+    }
+    .rotated-table {
+      transform: rotate(-90deg);
+      transform-origin: left top;
+      margin-top: 60px;
+      display: inline-block;
+    }
+    table {
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+    th, td {
+      border: 1px solid #888;
+      padding: 6px 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #e0ecf9;
+    }
   </style>
 </head>
 <body>
@@ -49,11 +73,51 @@
     <p class="tagline"><strong>Submitted to:</strong> International Conference on Asian Language Processing (IALP 2025)<br>
     <strong>Location:</strong> Kuching, Malaysia.</p>
 
-
+    <div class="scroll-container">
+      <div class="rotated-table">
+        <table>
+          <tr>
+            <th>LLMs</th><th>XTTS v1</th><th>XTTS v2</th><th>VITS</th><th>YourTTS</th><th>Bark</th>
+            <th>Indic-TTS</th><th>HiFi-GAN</th><th>BigVGAN</th><th>ParallelWaveGAN</th><th>DiffWave</th>
+            <th>MelGAN</th><th>UnivNet</th><th>VocGAN</th><th>WaveGrad</th><th>Total Time (Hours)</th>
+            <th>US</th><th>UK</th><th>IN</th><th>US</th><th>UK</th><th>US</th>
+          </tr>
+          <tr>
+            <td>ChatGPT</td><td>4080</td><td>4080</td><td>4080</td><td>4080</td><td>2000</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+          </tr>
+          <tr>
+            <td>Gemini</td><td>1830</td><td>1830</td><td>2073</td><td>2073</td><td>2067</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+          </tr>
+          <tr>
+            <td>Grok</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+          </tr>
+          <tr>
+            <td>Mistral</td><td></td><td>2000</td><td></td><td>2000</td><td>1997</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+          </tr>
+          <tr>
+            <td>LLaMA</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td><td>1000</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+            <td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td>
+          </tr>
+        </table>
+      </div>
+    </div>
 
     <div class="footer">
-      <p>Copyright &copy; 2025. This paper has been submitted to <strong>IALP 2025</strong> Kuching, Malaysia.
-      </p>
+      <p>Copyright &copy; 2025. This paper has been submitted to <strong>IALP 2025</strong> Kuching, Malaysia.</p>
     </div>
   </div>
 </body>
