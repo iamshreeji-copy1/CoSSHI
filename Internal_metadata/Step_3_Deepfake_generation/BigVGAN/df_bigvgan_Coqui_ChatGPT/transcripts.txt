@@ -1,4 +1,0 @@
-<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_1 | I can't believe तुमने ऐसा decision बिना सोचे लिया।
-<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_2| Let’s go to the party, वहाँ का vibe बहुत अच्छा है।
-<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_3 | I was planning to go, पर फिर कुछ urgent काम आ गया।
-<LLM_name>_<TTS_name>_<Vocoder_name>_<gender_of_speaker>_<name_of_speaker>_<Accent>_4 | Can you believe उसने सब कुछ खुद ही manage किया?
