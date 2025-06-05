@@ -48,17 +48,15 @@
     th {
       background-color: #eaf1fb;
     }
-    .vertical-text {
-      writing-mode: vertical-rl;
-      transform: rotate(180deg);
-      text-align: center;
-      vertical-align: middle;
-      font-weight: bold;
-      background-color: #f0f0f0;
-    }
-    .row-header {
+    .col-header {
       text-align: left;
-      background-color: #f9f9f9;
+      background-color: #f0f0f0;
+      font-weight: bold;
+    }
+    .section-label {
+      background-color: #dcdcdc;
+      font-weight: bold;
+      text-align: left;
     }
   </style>
 </head>
@@ -70,40 +68,42 @@
 
     <table>
       <tr>
-        <th>Participant</th>
-        <th>Category</th>
-        <th>Model</th>
-        <th>Value</th>
+        <th class="col-header">Category / Model</th>
+        <th>ChatGPT</th>
+        <th>Gemini</th>
+        <th>Grok</th>
+        <th>Mistral</th>
+        <th>LLaMA</th>
       </tr>
 
-      <!-- ChatGPT Rows -->
-      <tr>
-        <td rowspan="16">ChatGPT</td>
-        <td class="vertical-text" rowspan="6">TTS</td><td class="row-header">XTTS v1</td><td>4080</td>
-      </tr>
-      <tr><td class="row-header">XTTS v2</td><td>4080</td></tr>
-      <tr><td class="row-header">VITS</td><td>4080</td></tr>
-      <tr><td class="row-header">YourTTS</td><td>4080</td></tr>
-      <tr><td class="row-header">Bark</td><td>2000</td></tr>
-      <tr><td class="row-header">Indic-TTS</td><td>XXX</td></tr>
+      <!-- TTS Models -->
+      <tr><td class="section-label">TTS Models</td><td colspan="5"></td></tr>
+      <tr><td class="col-header">XTTS v1</td><td>4080</td><td>1830</td><td>2000</td><td>2000</td><td>1000</td></tr>
+      <tr><td class="col-header">XTTS v2</td><td>4080</td><td>1830</td><td>2000</td><td>–</td><td>1000</td></tr>
+      <tr><td class="col-header">VITS</td><td>4080</td><td>2073</td><td>2000</td><td>–</td><td>1000</td></tr>
+      <tr><td class="col-header">YourTTS</td><td>4080</td><td>2073</td><td>2000</td><td>2000</td><td>1000</td></tr>
+      <tr><td class="col-header">Bark</td><td>2000</td><td>2067</td><td>2000</td><td>1997</td><td>1000</td></tr>
+      <tr><td class="col-header">Indic-TTS</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
 
-      <tr><td class="vertical-text" rowspan="8">Deepfakes</td><td class="row-header">HiFi-GAN</td><td>XXX</td></tr>
-      <tr><td class="row-header">BigVGAN</td><td>XXX</td></tr>
-      <tr><td class="row-header">ParallelWaveGAN</td><td>XXX</td></tr>
-      <tr><td class="row-header">DiffWave</td><td>XXX</td></tr>
-      <tr><td class="row-header">MelGAN</td><td>XXX</td></tr>
-      <tr><td class="row-header">UnivNet</td><td>XXX</td></tr>
-      <tr><td class="row-header">VocGAN</td><td>XXX</td></tr>
-      <tr><td class="row-header">WaveGrad</td><td>XXX</td></tr>
+      <!-- Deepfake Models -->
+      <tr><td class="section-label">Deepfake Vocoders</td><td colspan="5"></td></tr>
+      <tr><td class="col-header">HiFi-GAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">BigVGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">ParallelWaveGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">DiffWave</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">MelGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">UnivNet</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">VocGAN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">WaveGrad</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
 
-      <tr><td class="vertical-text" rowspan="3">Accents</td><td class="row-header">US</td><td>XXX</td></tr>
-      <tr><td class="row-header">UK</td><td>XXX</td></tr>
-      <tr><td class="row-header">IN</td><td>XXX</td></tr>
+      <!-- Accent Info -->
+      <tr><td class="section-label">Multi Accent</td><td colspan="5"></td></tr>
+      <tr><td class="col-header">US</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">UK</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
+      <tr><td class="col-header">IN</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
 
-      <tr><td class="row-header">Total Time (Hours)</td><td colspan="2">XXX</td></tr>
-
-      <!-- Add Gemini, Grok, Mistral, LLaMA in same format -->
-
+      <!-- Total Time at End -->
+      <tr><td class="col-header">Total Time (Hours)</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td><td>XXX</td></tr>
     </table>
 
     <div class="footer">
